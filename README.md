@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # tf-Faster-RCNN
 A Python 3/TensorFlow implementation of Faster R-CNN ([paper](https://arxiv.org/abs/1506.01497)). See official implementations here:
 - [Python + Caffe](https://github.com/rbgirshick/py-faster-rcnn)
@@ -165,3 +166,6 @@ Common use cases:
   # Test model, using a previously trained model (0). Save output images with boxes
   python faster_rcnn_resnet50ish.py -n 11 -r 1 -m 10 -f 18 -t 0 -i 1 -y 'myYAML.yml'
   ```
+=======
+# FasterRCNN
+>>>>>>> faf180e6dfcec23fba033e7ffb504e350673b6a4
